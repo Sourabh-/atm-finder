@@ -1,0 +1,20 @@
+.toast-message {
+    position: fixed;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #000000;
+    bottom: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 10px;
+    max-width: 40%;
+    min-height: 36px;
+    left: 50%;
+    transform: translate(-50%);
+    transition: all 200ms ease-in-out;
+}
+
+.hide {
+    bottom: -100px;
+}

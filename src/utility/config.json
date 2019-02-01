@@ -1,0 +1,9 @@
+{
+    "google": {
+        "apiKey": "AIzaSyAJhkRx2jzvvsyCNJzucsN8r1w9jwRsizQ",
+        "placeType": "atm",
+        "radius": "50000"
+    },
+    "defaultIcon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+    "loadingText": "Searching..."
+}

@@ -1,0 +1,19 @@
+*, body {
+    font-family: "Comic Sans MS", cursive, sans-serif
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=text]:focus {
+    border-color: rgba(3, 174, 244, 0.8);
+    box-shadow: 0 1px 1px rgba(3, 174, 244, 0.075) inset, 0 0 8px rgba(3, 174, 244, 0.6);
+    outline: 0 none;
+}
